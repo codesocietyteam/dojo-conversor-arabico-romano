@@ -1,0 +1,10 @@
+/.idea/
+.floo
+.flooignore
+
+/.settings/
+/.classpath
+/.project
+
+/target/
+
