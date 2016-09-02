@@ -1,10 +1,14 @@
+# InteliJ
 /.idea/
 .floo
 .flooignore
 
+#Eclipse
 /.settings/
 /.classpath
 /.project
+/.metadata
+RemoteSystemsTempFiles
 
+# Maven
 /target/
-
